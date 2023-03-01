@@ -7,3 +7,7 @@ Hugo Ferreira Gonçalves
 * Javascript
 * Python
 * ...
+
+> Metodologias de desnvolvimento de software @ 2020
+
+![politecnico de leiria logo][https://eduportugal.eu/wp-content/uploads/2017/08/eduportugal_ipleiria_n.jpg]
